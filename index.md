@@ -12,6 +12,6 @@ let helloWorld = "Hello World";
 ```
 
 
-- [x] Create Github account
-- [x] Open the course repo
-- [x] Follow the course instruction
+- [ ] Create Github account
+- [ ] Open the course repo
+- [ ] Follow the course instruction
